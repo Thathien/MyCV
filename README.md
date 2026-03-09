@@ -1,86 +1,46 @@
-# 💼 Developer Portfolio -- CV
+# Ton That Hien - Professional CV Website
 
-## 🚀 About Me
+## 📁 Folder Structure
 
-Passionate Backend & Frontend Developer with strong experience in Java
-ecosystem and modern frontend technologies. Focused on building
-scalable, clean, and maintainable applications.
+```
+my cv/
+├── index.html              # Main HTML file
+├── css/
+│   └── style.css          # Main stylesheet
+├── js/
+│   └── script.js          # JavaScript functionality
+├── image/
+│   ├── sa.jpg             # Avatar image
+└── README.md              # This file
+```
 
----
+## 🎯 Overview
 
-## 🛠 Tech Stack
+This is a professional CV/resume website for Ton That Hien built with:
 
-### 🔹 Backend
+- **HTML5** - Semantic markup with accessibility features
+- **CSS3** - Custom properties, Flexbox, Grid, animations
+- **Vanilla JavaScript** - No external libraries, native APIs only
 
-- Java Core
-- Spring / Spring Boot
-- JSP / Servlet
-- SQL Server / Oracle
-- Testing & QA
+## 🚀 Features
 
-### 🔹 Frontend
+- 🌗 Dark/Light theme toggle with persistent storage
+- 📱 Fully responsive design (mobile, tablet, desktop)
+- ✨ Smooth animations and cursor trail effects
+- 🎯 Smooth scroll-to-anchor navigation
+- 📄 Print-optimized styles
+- ♿ Accessibility features (SKIP link, ARIA labels)
+- 📊 JSON-LD structured data for SEO
+- 🔍 Open Graph & Twitter Card meta tags
 
-- Next.js
-- TypeScript
+## 📖 Usage
 
----
+Simply open `index.html` in a web browser. All assets are organized in:
 
-## 📜 Licenses & Certifications
+- **CSS** files in the `css/` folder
+- **JavaScript** files in the `js/` folder
+- **Images** in the `image/` folder
 
-**August 04, 2023**\
-Certificate of Java Web Developer -- Udacity\
-https://bit.ly/3Q4aUV3
+## 📝 License
 
-**August 21, 2023**\
-SQL (Advanced) -- HackerRank
-
-**Nov 29, 2023**\
-Problem Solving -- HackerRank\
-JavaScript (Intermediate) -- HackerRank
-
-**July 23, 2024**\
-Certificate of Front End Web Developer -- Udacity\
-https://bit.ly/412RkhX
-
-**October 18, 2024**\
-Certificate of React -- Udacity\
-https://bit.ly/4gu0kkT
-
----
-
-## 📂 Project Structure
-
-    portfolio/
-    │
-    ├── index.html
-    ├── assets/
-    │   ├── css/
-    │   ├── js/
-    │   └── images/
-    └── README.md
-
----
-
-## 🌐 Live Demo
-
-Add your deployed website link here.
-
----
-
-## 📬 Contact
-
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
-- LinkedIn: Your LinkedIn Profile Link
-
----
-
-## 🎯 Career Goals
-
-- Improve system architecture skills
-- Expand frontend expertise with modern frameworks
-- Contribute to scalable real-world systems
-
----
-
-⭐ If you find this portfolio useful, feel free to give it a star!
+All rights reserved © 2026 Ton That Hien
